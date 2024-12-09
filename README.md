@@ -1,5 +1,12 @@
-## Hi there 👋
+# Johan Gosdenovich - Cybersecurity - Portfolio 
+>
+>
 
+## Professional Statements
+My name is Johan, and I have approximately 10 years of experience in the IT world. My deep interest in research and self-education, coupled with my quick adaptability to new technologies and strong problem-solving skills, enables me to effectively support the security goals of any organization. I am committed to ensuring its assets and information remain protected in a constantly changing threat landscape.
+
+## Portfolio
+> This cybersecurity portfolio highlights my development through various projects and tasks that I completed on my path to earning the Google Cybersecurity Professional Certificate. It demonstrates my proficiency with security tools and my understanding of cybersecurity principles.
 <!--
 **JohanGosdenovich/JohanGosdenovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
